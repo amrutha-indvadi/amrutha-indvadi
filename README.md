@@ -15,6 +15,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amrutha-indvadi&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=amrutha-indvadi&icon=5&color=12)
